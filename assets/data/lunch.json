@@ -1,0 +1,18 @@
+{
+	"Lunch": [{
+			"food": "BLT",
+			"price": "$9",
+			"calories": "700"
+		},
+		{
+			"food": "Fish n' Chips",
+			"price": "$12",
+			"calories": "1000"
+		},
+		{
+			"food": "Triple Decker Club",
+			"price": "$10",
+			"calories": "900"
+		}
+	]
+}

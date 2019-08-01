@@ -1,0 +1,18 @@
+{
+	"Breakfast": [{
+			"food": "Eggs and Bacon",
+			"price": "$5",
+			"calories": "200"
+		},
+		{
+			"food": "Chocolate Chip Waffles",
+			"price": "$7",
+			"calories": "500"
+		},
+		{
+			"food": "Blueberry Pancakes",
+			"price": "$6",
+			"calories": "350"
+		}
+	]
+}

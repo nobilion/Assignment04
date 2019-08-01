@@ -1,0 +1,18 @@
+{
+	"Dinner": [{
+			"food": "New York Steak",
+			"price": "$25",
+			"calories": "1200"
+		},
+		{
+			"food": "Beyond Meat Burger",
+			"price": "$15",
+			"calories": "1000"
+		},
+		{
+			"food": "Stuffed Ravoli",
+			"price": "$20",
+			"calories": "1500"
+		}
+	]
+}
